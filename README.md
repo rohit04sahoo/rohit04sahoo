@@ -48,29 +48,6 @@ My experience includes developing real-world applications in fleet management, l
 #### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-### 📌 Projects I've Worked On
-
-#### 🚚 Fleet Management System
-A complete logistics platform supporting multiple user roles including Fleet Owner, Driver, Garage, and Customers.
-- **Features include:**
-  - Vehicle & Driver Management
-  - Contract Management & Lease Request System
-  - Fleet Dashboard & Live Booking
-  - Real-time Vehicle Tracking & Geolocation
-  - Maintenance Requests & Service Logs
-  - Push Notifications via Firebase
-  - Role-based Authentication (RBAC) & Secure REST API Integration
-
-#### 📲 Mobile Application Development
-- **Highlights:**
-  - Highly responsive UI/UX development matching exact design specifications
-  - Clean API Integration & Robust Authentication flow
-  - Riverpod State Management & Dynamic Forms
-  - App performance optimization & Clean Architecture pattern
-
----
 
 ### 🌱 Currently Learning & Exploring
 - 🏗️ Advanced Flutter & Clean Architecture
