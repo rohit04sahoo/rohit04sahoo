@@ -3,7 +3,7 @@
 <p align="center">
   <h1 align="center">Hi there 👋, I'm Rohit Sahoo</h1>
   <p align="center">
-    <strong>🚀 Software Developer | Flutter Developer | Django REST API | Mobile App Developer</strong>
+    <strong>🚀 Software Developer | Software Testing | Flutter Developer | Django REST API | Mobile App Developer</strong>
   </p>
 </p>
 
